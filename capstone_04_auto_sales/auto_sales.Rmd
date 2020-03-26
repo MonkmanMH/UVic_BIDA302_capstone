@@ -1,7 +1,9 @@
 ---
 title: "New motor vehicle sales 1981-2018"
 subtitle: "Statistics Canada"
-output: html_notebook
+subtitle: "Capstone project: BIDA 302"
+author: "<YOUR NAME HERE>"
+output: github_document
 ---
 
 ## Macleans

@@ -2,7 +2,7 @@
 title: "Gapminder: 200 Countries, 200 Years"
 subtitle: "Capstone project: BIDA 302"
 author: "<YOUR NAME HERE>"
-output: html_notebook
+output: github_document
 ---
 
 

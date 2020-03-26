@@ -1,7 +1,9 @@
 ---
 title: "Market basket measures: poverty plan"
 subtitle: "Statistics Canada"
-output: html_notebook
+subtitle: "Capstone project: BIDA 302"
+author: "<YOUR NAME HERE>"
+output: github_document
 ---
 
 

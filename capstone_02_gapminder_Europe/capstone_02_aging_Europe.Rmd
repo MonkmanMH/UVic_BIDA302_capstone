@@ -1,7 +1,8 @@
 ---
-title: "BIDA302 - assignment #3"
-subtitle: "solutions"
-output: html_notebook
+title: "Gapminder: Aging Europe"
+subtitle: "Capstone project: BIDA 302"
+author: "<YOUR NAME HERE>"
+output: github_document
 ---
 
 ## YOUR NAME HERE

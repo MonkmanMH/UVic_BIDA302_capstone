@@ -1,7 +1,9 @@
 ---
 title: "Classic Rock 25"
 subtitle: "fictional wholesale orders"
-output: html_notebook
+subtitle: "Capstone project: BIDA 302"
+author: "<YOUR NAME HERE>"
+output: github_document
 ---
 
 
