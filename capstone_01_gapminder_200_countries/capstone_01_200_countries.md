@@ -18,7 +18,7 @@ library(readxl)
 ## Introduction
 
 
-In this project, you will recreate single year versions of the chart Hans Rosling shows in the video here:
+In this project, you will recreate  single year versions of the chart Hans Rosling shows in the video here:
 
 * Gapminder, [200 Countries, 200 Years, 4 Minutes](https://www.gapminder.org/videos/200-years-that-changed-the-world-bbc/)
 
@@ -27,7 +27,7 @@ In this project, you will recreate single year versions of the chart Hans Roslin
 
 ### Data files
 
-I downloaded three files from https://www.gapminder.org/data/ that you will need
+The four files that you will need, downloaded from https://www.gapminder.org/data/, can be found in the "data" folder of this project.
 
 There are CSV files for the following:
 
@@ -35,12 +35,29 @@ There are CSV files for the following:
 
 * Life expectancy (years): "life_expectancy_years.csv"
 
-In addition, I downloaded an Excel file that you'll need to use to get the region that each country is in. 
+* Population: "population_total.csv"
+
+In addition, there is an Excel file that you'll need to use to get the region (continent) that each country is in. 
 
 * "Data Geographies - v1 - by Gapminder.xlsx", sheet = "list-of-countries-etc"
 
 
 
+
+
+
+## References
+
+https://towardsdatascience.com/how-to-build-animated-charts-like-hans-rosling-doing-it-all-in-r-570efc6ba382
+
+https://remi-daigle.github.io/2016-04-15-UCSB/viz/
+
+https://rafalab.github.io/dsbook/gapminder.html
+
+
+https://datacarpentry.org/dc_zurich/R-ecology/05-visualisation-ggplot2.html
+
+https://tutorials.iq.harvard.edu/R/Rgraphics/Rgraphics.html
 
 
 

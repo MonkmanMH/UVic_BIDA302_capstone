@@ -1,6 +1,5 @@
 ---
-title: "Classic Rock 25"
-subtitle: "fictional wholesale orders"
+title: "Classic Rock 25: fictional wholesale orders"
 subtitle: "Capstone project: BIDA 302"
 author: "<YOUR NAME HERE>"
 output: github_document
@@ -17,16 +16,16 @@ The database team at the warehouse has just run an extract for you, with the det
 
 ![order_multi table](order_multi.JPG)
 
-You work in the marketing department, and need to make a summary for the company's annual meeting. You will need to present tables and charts showing performance by chain and region. 
+You work in the marketing department, and need to make a summary for the company's annual meeting. You will need to present tables and charts showing performance by chain and region. As well, explore the data with plots and tables.
 
 You might want something like this:
 
-![sales_region.png](sales_region.png)
+![sales_region.png](sales_region.png  )
 
-Other things to explore would be sales by chain, by month or quarter, or by artist. 
-
-
+Other things to explore would be sales by store, chain, by month or quarter, or by artist. 
 
 
 
+
+-30-
 
