@@ -10,15 +10,20 @@ The main course repo is https://github.com/MonkmanMH/UVic_BIDA302
 
   - importing data
   
-  - data wrangling
+  - data wrangling—all the necessary data tidying and transformations
   
   - data modeling and summarization
   
-  - communication (including visualization)
+  - communication (including tabular and plotting visualization)
 
 * The project will be introduced in Week 4.
 
 * Some projects will be available for you to choose from, but you may also bring your own data.
+
+* To do this, you will have the end already defined: a summary table and/or a plot of some data that has been published.
+
+* In the defined projects, you are to replicate a summary table and plot—you will have all the necessary data, and the end-goal. It's up to you to use your data analytics coding skills to create that end goal.
+
 
 ## Project assessment
 
