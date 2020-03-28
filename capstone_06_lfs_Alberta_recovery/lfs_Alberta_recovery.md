@@ -1,17 +1,17 @@
 ---
 title: "Labour force participation: Alberta's recovery"
-subtitle: "Statistics Canada"
 subtitle: "Capstone project: BIDA 302"
 author: "<YOUR NAME HERE>"
 output: github_document
 ---
 
 
-## Labour force participation by age
+## Introduction
 
-### Background
+This project asks you to recreate the chart below, which was featured in the 2019 _Maclean's_ magazine "Chart Week" issue. 
 
-[Alberta's uneven recovery](https://www.macleans.ca/economy/economicanalysis/the-most-important-charts-to-watch-in-2019/)
+
+[Alberta's uneven economic recovery](https://www.macleans.ca/economy/economicanalysis/the-most-important-charts-to-watch-in-2019/)
 
 
 
@@ -20,11 +20,11 @@ output: github_document
 
 ### Data source
 
-data file: "data_14100287_trunc.csv"
+Data file: "data_14100287_trunc.csv"
 
 **NOTE:** 
 
-the data available for this project is a truncated of the source file listed below. A number of variables have been removed, and any non-estimate values have been filtered out. See the file data_truncate.Rmd for details.
+The data available for this project is a truncated of the source file listed below. A number of variables have been removed, and any non-estimate values have been filtered out. See the file data_truncate.Rmd for details.
 
 
 
@@ -39,14 +39,5 @@ Geography: Canada, Province or territory
 
 
 [Statistics Canada Open License Agreement](http://www.statcan.gc.ca/eng/reference/licence)
-
-
-
-
-#### references
-
-Kourtney Kobel and Tammy Schirle, ["The differential impact of universal child benefits on the labor supply of married and single mothers"](http://www.lcerpa.org/public/papers/LCERPA_2015_11.pdf)
-
-Tyler Cowen, 2016, ["Why is female labor force participation down?"](http://marginalrevolution.com/marginalrevolution/2016/11/female-labor-force-participation.html) - U.S. measures
 
 

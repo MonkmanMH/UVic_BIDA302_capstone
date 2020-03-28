@@ -1,15 +1,15 @@
 ---
 title: "Market basket measures: poverty plan"
-subtitle: "Statistics Canada"
 subtitle: "Capstone project: BIDA 302"
 author: "<YOUR NAME HERE>"
 output: github_document
 ---
 
 
-## Low income statistics
+## Introduction
 
-### 
+This project asks you to recreate the chart below, which was featured in the 2019 _Maclean's_ magazine "Chart Week" issue. 
+
 
 [Finally, a poverty plan. But will it work?](https://www.macleans.ca/economy/economicanalysis/the-most-important-charts-to-watch-in-2019/)
 
@@ -48,13 +48,5 @@ Geography: Census metropolitan area, Census agglomeration, Census metropolitan a
 
 [Statistics Canada Open License Agreement](http://www.statcan.gc.ca/eng/reference/licence)
 
-
-
-
-#### references
-
-Kourtney Kobel and Tammy Schirle, ["The differential impact of universal child benefits on the labor supply of married and single mothers"](http://www.lcerpa.org/public/papers/LCERPA_2015_11.pdf)
-
-Tyler Cowen, 2016, ["Why is female labor force participation down?"](http://marginalrevolution.com/marginalrevolution/2016/11/female-labor-force-participation.html) - U.S. measures
 
 

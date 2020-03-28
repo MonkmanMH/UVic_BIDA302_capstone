@@ -1,12 +1,13 @@
 ---
 title: "New motor vehicle sales 1981-2018"
-subtitle: "Statistics Canada"
 subtitle: "Capstone project: BIDA 302"
 author: "<YOUR NAME HERE>"
 output: github_document
 ---
 
-## Macleans
+## Introduction
+
+This project asks you to recreate the chart below, which was featured in the 2019 _Maclean's_ magazine "Chart Week" issue. 
 
 [Auto sales point to a slowdown for the economy](https://www.macleans.ca/economy/economicanalysis/the-most-important-charts-to-watch-in-2019/)
 
@@ -15,7 +16,13 @@ output: github_document
 ![new motor vehicle sales, Canada](David-Doyle-car-sales.png)
 
 
+Once you've created the chart for Canada, make a similar chart for British Columbia.
+
+
 ## Data
+
+There are two files required to recreate this chart, both found in the "data" folder.
+
 
 ### Auto sales
 
@@ -42,3 +49,5 @@ Table: 17-10-0009-01 (formerly CANSIM 051-0005)
 
 Geography: Canada, Province or territory
 
+
+-30-
