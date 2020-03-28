@@ -50,4 +50,5 @@ In addition, there is an Excel file that you'll need to use to get the region (c
 
 https://towardsdatascience.com/how-to-build-animated-charts-like-hans-rosling-doing-it-all-in-r-570efc6ba382
 
+animation of plots: package {gganimate}
 
