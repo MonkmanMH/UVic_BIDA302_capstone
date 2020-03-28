@@ -22,13 +22,14 @@ The main course repo is https://github.com/MonkmanMH/UVic_BIDA302
 
 ## Project assessment
 
-| MARKS | OUTCOME |
+| **MARKS** | **OUTCOME** |
 | --- | --- |
 | 5 | data import, including defining the variable types |
 | 15 | tidying and manipulation |
-| 5 | visualization -- tables and plots |
-| 5 | going beyond -- this might included adding an additional table, plot, or statistical model, or using functions so that your code isn't as WET |
+| 5 | visualization—tables and plots |
+| 5 | going beyond—this might included adding an additional table, plot, or statistical model, or using functions so that your code isn't as WET |
 | 10 | documentation throughout, explaining what the following R code chunk is doing
+| **40** | **TOTAL** |
 
 
 ## Project options
