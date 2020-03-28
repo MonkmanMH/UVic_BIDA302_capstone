@@ -50,14 +50,4 @@ In addition, there is an Excel file that you'll need to use to get the region (c
 
 https://towardsdatascience.com/how-to-build-animated-charts-like-hans-rosling-doing-it-all-in-r-570efc6ba382
 
-https://remi-daigle.github.io/2016-04-15-UCSB/viz/
-
-https://rafalab.github.io/dsbook/gapminder.html
-
-
-https://datacarpentry.org/dc_zurich/R-ecology/05-visualisation-ggplot2.html
-
-https://tutorials.iq.harvard.edu/R/Rgraphics/Rgraphics.html
-
-
 
