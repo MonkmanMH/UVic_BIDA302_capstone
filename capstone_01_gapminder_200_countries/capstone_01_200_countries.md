@@ -52,3 +52,8 @@ https://towardsdatascience.com/how-to-build-animated-charts-like-hans-rosling-do
 
 animation of plots: package {gganimate}
 
+* [{gganimate} package reference page](https://gganimate.com/index.html) -- note that the "Getting Started" page has a good guide to the basics of the package
+
+* [GGANIMATE: HOW TO CREATE PLOTS WITH BEAUTIFUL ANIMATION IN R](https://www.datanovia.com/en/blog/gganimate-how-to-create-plots-with-beautiful-animation-in-r/) -- includes some more advanced methods
+
+
