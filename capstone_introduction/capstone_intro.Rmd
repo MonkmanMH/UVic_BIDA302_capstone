@@ -153,7 +153,7 @@ The Statistics Canada The Daily can be found here: [New motor vehicle registrati
 On 2016-11-18, [Dr. Tammy Schirle](https://legacy.wlu.ca/homepage.php?grp_id=1805&f_id=31) posted [a series of tweets](https://twitter.com/tammyschirle/status/799616596750831616) via her twitter account (@tammyschirle), showing the proportion of Canadian women with young children, employed and at work, from 1976-2015
 
 
-![](../capstone_05_lfs_women_children/schirle_lfs_women_age_of_child.png)
+![](../capstone_05_lfs_women_children/schirle_lfs_women_age_of_child_small.png)
 
 ---
 
