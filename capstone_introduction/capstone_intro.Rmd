@@ -85,8 +85,8 @@ The capstone project has a total of 40 marks and will be evaluated on the follow
 | MARKS | OUTCOME |
 |-------|---------|
 | 5 | data import, including defining the variable types |
-| 15 | tidying and manipulation |
-| 5 | visualization—tables and plots |
+| 10 | tidying and manipulation |
+| 10 | visualization—tables and plots |
 | 5 | going beyond—this might include adding an additional table, plot, or statistical model, or using functions so that your code isn't as WET |
 | 10 | documentation throughout, explaining what the following R code is doing |
 
