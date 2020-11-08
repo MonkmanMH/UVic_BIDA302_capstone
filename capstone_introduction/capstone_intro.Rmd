@@ -179,9 +179,20 @@ On 2016-11-18, [Dr. Tammy Schirle](https://legacy.wlu.ca/homepage.php?grp_id=180
 ![Percentage of persons living under market-basket measure threshhold](../capstone_07_mbm_poverty_plan\Lindsay-Tedds-poverty.png)
 ---
 
-## 8. Classic rock album sales 
+## 8. Classic Rock album sales 
 
 Fictional business data for a wholesale company that sells nothing but the 25 biggest selling / most famous albums by the 25 most-played artists on "Classic Rock" radio stations. There are opportunities to create summary tables and plots by region, month and quarter, format, as well as by artist.
 
 ![total unit sales by region](../capstone_08_CR25_orders/sales_region_small.png)
+
+---
+
+## 9. COVID-19 regional case counts 
+
+Using data released by the British Columbia Public Health Office and Centre for Disease Control, showing the number of COVID-19 cases in British Columbia by health region and age.
+
+(details to follow)
+
+
+
 
