@@ -1,10 +1,10 @@
 ---
-title: "COVID-19 cases: British Columbia"
+title: "COVID-19 case numbers in British Columbia"
 subtitle: "Capstone project: BIDA 302"
 author: "<YOUR NAME HERE>"
-
-output: html_notebook
+output: github_document
 ---
+
 
 
 ## Background
