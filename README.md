@@ -57,5 +57,7 @@ The main course repo is https://github.com/MonkmanMH/UVic_BIDA302
 
 9. [COVID-19 case numbers in British Columbia](https://github.com/MonkmanMH/UVic_BIDA302_capstone/blob/master/capstone_09_COVID_BC/covid19_bc_cases.md)
 
+10. [GDP by industry in Canada](https://github.com/MonkmanMH/UVic_BIDA302_capstone/blob/master/capstone_10_gdp_industry/gdp_by_industry.md)
+
 -30-
 
