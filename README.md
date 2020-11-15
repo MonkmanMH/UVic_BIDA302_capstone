@@ -55,9 +55,10 @@ The main course repo is https://github.com/MonkmanMH/UVic_BIDA302
 
 8. [Classic rock: a wholesale company scenario](https://github.com/MonkmanMH/UVic_BIDA302_capstone/blob/master/capstone_08_CR25_orders/CR25_scenario.md)
 
-9. [COVID-19 case numbers in British Columbia](https://github.com/MonkmanMH/UVic_BIDA302_capstone/blob/master/capstone_09_COVID_BC/covid19_bc_cases.md)
+9. [GDP by industry in Canada](https://github.com/MonkmanMH/UVic_BIDA302_capstone/blob/master/capstone_10_gdp_industry/gdp_by_industry.md)
 
-10. [GDP by industry in Canada](https://github.com/MonkmanMH/UVic_BIDA302_capstone/blob/master/capstone_10_gdp_industry/gdp_by_industry.md)
+10. [COVID-19 case numbers in British Columbia](https://github.com/MonkmanMH/UVic_BIDA302_capstone/blob/master/capstone_09_COVID_BC/covid19_bc_cases.md)
+
 
 -30-
 
