@@ -53,6 +53,12 @@ Geography: Canada
 
 [](https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=3610043401)
 
+
+
+[Statistics Canada Open License Agreement](http://www.statcan.gc.ca/eng/reference/licence)
+
+
+
 ## The Project
 
 For this capstone project, you will use the {cansim} package to directly
@@ -64,11 +70,7 @@ access the GDP data table published by Statistics Canada.
   - [{cansim} reference
     site](https://mountainmath.github.io/cansim/index.html)
 
-\`\`\`{r setup} library(tidyverse)
 
-library(cansim)
-
-\`\`\`
 
 A rough draft example plot, showing GDP in the latest month by 2-digit
 NAICS industry:
